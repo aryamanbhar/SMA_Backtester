@@ -11,7 +11,3 @@ This project implements a simple backtesting engine for a moving average crossov
 - Simulates buy/sell decisions
 - Tracks portfolio value
 - Plots price, SMAs, buy/sell points
-
-## Usage
-
-1. Install requirements:
